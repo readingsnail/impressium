@@ -1,5 +1,5 @@
 ---
 name: Readingsnail
-avatar: ''
+avatar: /uploads/llama-5.avif
 ---
 
